@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 356497749
+CRC: 3727191350
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -17,4 +17,8 @@ AssetBundleManifest:
       Dependencies: {}
     Info_4:
       Name: scene/levels
+      Dependencies:
+        Dependency_0: art/textures
+    Info_5:
+      Name: art/textures
       Dependencies: {}

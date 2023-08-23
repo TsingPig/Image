@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2401668646
+CRC: 4173661689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 05376b9068f678a7905fe97d5f4f52d7
+    Hash: fdaf3721cad565d9f82dc122b2230663
   TypeTreeHash:
     serializedVersion: 2
     Hash: d8f4d5710607060fe02e47f557bca9de
@@ -64,4 +64,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Level1.unity
-Dependencies: []
+Dependencies:
+- F:/_DemoProject/_7_13_Json_git/AssetBundles/art/textures
