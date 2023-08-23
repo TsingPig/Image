@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 356497749
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameobject/effects
+      Dependencies: {}
+    Info_1:
+      Name: gameobject/characters
+      Dependencies: {}
+    Info_2:
+      Name: gameobject/models
+      Dependencies:
+        Dependency_0: art/materials
+    Info_3:
+      Name: art/materials
+      Dependencies: {}
+    Info_4:
+      Name: scene/levels
+      Dependencies: {}

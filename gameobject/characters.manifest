@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2529375348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 630cb7a5e81d78b741fd27960bedde07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e4ab4430538809c824f4456b88708c48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ebbf7aa512aa774d9eb161dbe76aeec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a851ca3c538fc240a3dce5f408e7529, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/GameObjects/Characters/Player.prefab
+Dependencies: []

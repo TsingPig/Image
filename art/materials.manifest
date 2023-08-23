@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3024107396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e31fb9b02ef784e3f7ac767d397b18b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Material/LearnAssetBundle/Test_3.mat
+- Assets/Res/Material/LearnAssetBundle/Test_1.mat
+- Assets/Res/Material/LearnAssetBundle/Test_2.mat
+Dependencies: []
